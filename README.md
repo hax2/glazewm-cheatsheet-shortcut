@@ -7,7 +7,7 @@ adds a shortcut to display the glazewm cheatsheet as an image
 - can be remapped by editting the ahk 
 
 ## Installation
-1. put the ahk script and the image in the same folder
+1. put the ahk script and the image in the same folder, can be any folder
 2. right click ahk script, create shortcut, cut the shortcut
 3. open file explorer, write shell:startup into the url bar
 4. paste the shortcut into the startup folder
