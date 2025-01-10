@@ -1,5 +1,10 @@
 # glazewm cheatsheet shortcut
-adds a shortcut to show glazewm shortcuts
+adds a shortcut to display the glazewm cheatsheet as an image
+## Usage
+- alt + g to show cheatsheet
+- alt + g a second time to see the keyboard diagram
+- esc to exit
+- can be remapped by editting the ahk 
 
 ## Installation
 1. put the ahk script and the image in the same folder
