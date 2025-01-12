@@ -13,4 +13,4 @@ adds a shortcut to display the glazewm cheatsheet as an image
 4. paste the shortcut into the startup folder
 
 # adjustable guide.ahk
-if you want to make it adjust to your custom shortcuts use this ahk instead, you'll have to edit it and put your config.yaml file path in line 9 of the code
+if you want to make it adjust to your custom shortcuts use this ahk instead, you'll have to edit it and put your config.yaml file path in line 9 of the code, it also uses ctrl+i instead of alt+g
